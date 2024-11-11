@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/DPApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/controllers/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/resources/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/src/test/java/com/shawood/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shawood/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp/src/main/java/com/shawood/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/shawood/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/test/java/com/shawood/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="feat: springboot demo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,11 +139,24 @@
       <option name="presentableId" value="Default" />
       <updated>1731318198508</updated>
       <workItem from="1731318199501" duration="353000" />
-      <workItem from="1731321022979" duration="9580000" />
+      <workItem from="1731321022979" duration="9970000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: springboot demo">
+      <option name="closed" value="true" />
+      <created>1731347872725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731347872725</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: springboot demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: springboot demo" />
   </component>
 </project>
