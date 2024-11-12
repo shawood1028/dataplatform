@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="feat: springboot demo">
+      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/controllers/AIController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/DPApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/DPApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/controllers/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/controllers/IndexController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +64,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/shawood/code/github/dataplatform",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -148,6 +151,7 @@
       <workItem from="1731321022979" duration="9970000" />
       <workItem from="1731380654249" duration="24000" />
       <workItem from="1731380683927" duration="547000" />
+      <workItem from="1731401291782" duration="2973000" />
     </task>
     <task id="LOCAL-00001" summary="feat: springboot demo">
       <option name="closed" value="true" />
