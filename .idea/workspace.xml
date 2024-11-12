@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="feat: springboot demo" />
+    <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="feat: springboot demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/DPApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/DPApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shawood1028"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shawood1028&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shawood1028/dataplatform.git",
-    "accountId": "d42d06d7-3a9a-4221-95b4-38bba996e57a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shawood1028/dataplatform.git&quot;,
+    &quot;accountId&quot;: &quot;045e0a2e-5113-4ac7-8ed6-ca0737472ccd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -63,11 +66,13 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Debug Application">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shawood.App" />
       <module name="dataplatform" />
@@ -94,6 +99,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:5173">
+      <method v="2" />
+    </configuration>
     <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="dataplatform" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.shawood.App" />
@@ -117,16 +125,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.DPApp" />
-        <item itemvalue="Application.DPApp" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
       </set>
     </attachedChunks>
   </component>
@@ -140,6 +146,8 @@
       <updated>1731318198508</updated>
       <workItem from="1731318199501" duration="353000" />
       <workItem from="1731321022979" duration="9970000" />
+      <workItem from="1731380654249" duration="24000" />
+      <workItem from="1731380683927" duration="547000" />
     </task>
     <task id="LOCAL-00001" summary="feat: springboot demo">
       <option name="closed" value="true" />
@@ -158,5 +166,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: springboot demo" />
     <option name="LAST_COMMIT_MESSAGE" value="feat: springboot demo" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
