@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="Add readme infos">
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/config/AIServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/config/DPAppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/AIServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/impl/DoubaoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/impl/OpenAIServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/intf/AIService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/main/resources/application-test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp-be/src/test/java/com/shawood/config/AIServerConfigTest.java" afterDir="false" />
+    <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="feat: add AI service demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp-be/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/controllers/AIController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/controller/AIController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/controllers/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp-be/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/AIServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/AIServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/impl/DoubaoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/impl/DoubaoServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +168,7 @@
       <workItem from="1731321022979" duration="9970000" />
       <workItem from="1731380654249" duration="24000" />
       <workItem from="1731380683927" duration="547000" />
-      <workItem from="1731401291782" duration="11087000" />
+      <workItem from="1731401291782" duration="11406000" />
     </task>
     <task id="LOCAL-00001" summary="feat: springboot demo">
       <option name="closed" value="true" />
@@ -198,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731405706702</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add AI service demo">
+      <option name="closed" value="true" />
+      <created>1731489303395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731489303395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +203,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: springboot demo" />
     <MESSAGE value="Add readme infos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add readme infos" />
+    <MESSAGE value="feat: add AI service demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add AI service demo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
