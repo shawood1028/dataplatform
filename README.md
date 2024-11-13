@@ -6,6 +6,10 @@
    * llama
    * gemini
    * copilot
+   * bytedance doubao
+   * ali ai
+   * xunfei ai
+   * baidu ai
    ...
 2. Add data center basic features
    * Excel data processing
@@ -13,3 +17,4 @@
    * Analyze data(use AI or others)
    * Data chart
    * Connect primary databases
+   ...

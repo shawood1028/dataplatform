@@ -1,2 +1,3 @@
-server:
-  port: 1028
+spring:
+  profiles:
+    active: test # 使用配置文件后缀(如application-dev.yml，则value填入dev)

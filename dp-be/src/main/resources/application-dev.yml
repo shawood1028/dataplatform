@@ -1,0 +1,7 @@
+server:
+  port: 1028
+
+# AI api keys
+aiserver:
+  openaiapikey: "openai-111"
+  baiduapikey: "baidu-111"
