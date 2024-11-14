@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="feat: add AI service demo">
+    <list default="true" id="6fed24e6-f1ba-4c68-bb44-6761dd65367c" name="Changes" comment="feat: add doubao AI service demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/AIServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/AIServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-be/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/impl/DoubaoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp-be/src/main/java/com/shawood/service/impl/DoubaoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-fe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/dp-fe/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-fe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/dp-fe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-fe/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dp-fe/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp-fe/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dp-fe/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +173,7 @@
       <workItem from="1731321022979" duration="9970000" />
       <workItem from="1731380654249" duration="24000" />
       <workItem from="1731380683927" duration="547000" />
-      <workItem from="1731401291782" duration="11406000" />
+      <workItem from="1731401291782" duration="21247000" />
     </task>
     <task id="LOCAL-00001" summary="feat: springboot demo">
       <option name="closed" value="true" />
@@ -194,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731489303395</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add doubao AI service demo">
+      <option name="closed" value="true" />
+      <created>1731490270793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731490270793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +217,8 @@
     <MESSAGE value="feat: springboot demo" />
     <MESSAGE value="Add readme infos" />
     <MESSAGE value="feat: add AI service demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add AI service demo" />
+    <MESSAGE value="feat: add doubao AI service demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add doubao AI service demo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

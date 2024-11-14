@@ -10,11 +10,18 @@ import TheWelcome from './components/TheWelcome.vue'
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
     </div>
+    <div>
+      <RouterLink to="/">Home</RouterLink>
+      <RouterLink to="/data">Data</RouterLink>
+      <RouterLink to="/ai">AI</RouterLink>
+    </div>
+
   </header>
 
   <main>
     <TheWelcome />
   </main>
+  <router-view></router-view>
 </template>
 
 <style scoped>
