@@ -16,7 +16,8 @@ const routes = [
   },
   { path: '/data',
     name: 'data',
-    component: DataView },
+    component: DataView 
+  },
 ]
 
 const router = createRouter({

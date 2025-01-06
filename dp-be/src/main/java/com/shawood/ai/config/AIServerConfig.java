@@ -1,4 +1,4 @@
-package com.shawood.config;
+package com.shawood.ai.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

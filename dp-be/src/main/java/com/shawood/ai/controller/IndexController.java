@@ -1,4 +1,4 @@
-package com.shawood.controller;
+package com.shawood.ai.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

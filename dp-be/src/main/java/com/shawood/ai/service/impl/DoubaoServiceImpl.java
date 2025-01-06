@@ -1,6 +1,6 @@
-package com.shawood.service.impl;
+package com.shawood.ai.service.impl;
 
-import com.shawood.service.intf.AIService;
+import com.shawood.ai.service.intf.AIService;
 import com.volcengine.ark.runtime.exception.ArkHttpException;
 import com.volcengine.ark.runtime.model.completion.chat.ChatCompletionRequest;
 import com.volcengine.ark.runtime.model.completion.chat.ChatMessage;

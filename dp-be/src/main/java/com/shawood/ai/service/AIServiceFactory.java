@@ -1,8 +1,8 @@
-package com.shawood.service;
+package com.shawood.ai.service;
 
-import com.shawood.service.impl.DoubaoServiceImpl;
-import com.shawood.service.impl.OpenAIServiceImpl;
-import com.shawood.service.intf.AIService;
+import com.shawood.ai.service.impl.DoubaoServiceImpl;
+import com.shawood.ai.service.impl.OpenAIServiceImpl;
+import com.shawood.ai.service.intf.AIService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

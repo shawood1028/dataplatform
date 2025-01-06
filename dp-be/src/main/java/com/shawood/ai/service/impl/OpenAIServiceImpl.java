@@ -1,6 +1,6 @@
-package com.shawood.service.impl;
+package com.shawood.ai.service.impl;
 
-import com.shawood.service.intf.AIService;
+import com.shawood.ai.service.intf.AIService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

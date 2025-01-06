@@ -1,4 +1,4 @@
-package com.shawood.config;
+package com.shawood.ai.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

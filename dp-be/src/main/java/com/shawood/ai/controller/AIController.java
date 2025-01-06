@@ -1,9 +1,8 @@
-package com.shawood.controller;
+package com.shawood.ai.controller;
 
-import com.shawood.service.AIServiceFactory;
-import com.shawood.service.intf.AIService;
+import com.shawood.ai.service.AIServiceFactory;
+import com.shawood.ai.service.intf.AIService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
